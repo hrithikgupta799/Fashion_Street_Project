@@ -314,4 +314,8 @@ color: white;
     footer section #last{
         text-align: center;
     }
+    .shop-section{
+        width:80%;
+        margin:auto;
+    }
 }
