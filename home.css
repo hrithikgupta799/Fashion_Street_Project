@@ -314,6 +314,7 @@ color: white;
         margin:auto;
     }
     footer div ul li a{
-         font-weight: 550;
+         font-weight: 400;
+        font-size: 15px;
     }
 }
