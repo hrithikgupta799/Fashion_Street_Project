@@ -305,18 +305,16 @@ color: white;
     footer div{
         width:90%;
         margin-left: 2rem;
-        
     }
     footer div #contact{
-        display: flex;
-        justify-content: center;
-        margin-right: 1rem;
-    }
-    footer section #last{
-        text-align: center;
+        margin-right: 10px;
     }
     .shop-section{
         width:80%;
         margin:auto;
     }
+    footer div li a{
+         font-size: 8px;
+    font-weight: 400;
+}
 }
