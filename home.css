@@ -307,14 +307,10 @@ color: white;
         margin-left: 2rem;
     }
     footer div #contact{
-        margin-right: 10px;
+        margin-right: 1rem;
     }
     .shop-section{
         width:80%;
         margin:auto;
     }
-    footer div li a{
-         font-size: 8px;
-    font-weight: 400;
-}
 }
