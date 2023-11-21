@@ -276,21 +276,21 @@ color: white;
         height: 150px;
     }
     #banner h4{
-        margin-top: 2.5rem;
+        margin-top: 2.7rem;
         font-size: 8px;
     }
     #banner h2{
-        font-size: 16px;
+        font-size: 14px;
     }
     #banner p{
         text-align: center;
         font-weight: 200;
         font-size: 8px;
-        margin: 7px;
+        margin: 6px;
     }
     #banner button{
         padding: 3.5px 7px;
-        font-size: 8px;
+        font-size: 7px;
     }
     .shop-section main div{
         display: block;
