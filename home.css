@@ -313,4 +313,7 @@ color: white;
         width:80%;
         margin:auto;
     }
+    footer div ul li a{
+        font-size: 8px;
+    }
 }
