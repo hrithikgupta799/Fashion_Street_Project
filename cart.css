@@ -111,6 +111,9 @@ span{
 }
 
 @media(max-width:400px){
+.cart-section{
+    width:90%;
+}
     table th{
     font-size: 12px;
    
