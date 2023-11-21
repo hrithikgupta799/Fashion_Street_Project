@@ -122,4 +122,8 @@ span{
     table tr{
     font-size: 8px;
     }
+    .image img{
+    height: 70px;
+    width: 70px;
+}
 }
