@@ -317,4 +317,7 @@ color: white;
          font-weight: 400;
         font-size: 15px;
     }
+    footer div p{
+    font-weight: 500;
+}
 }
